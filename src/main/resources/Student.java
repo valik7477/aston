@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class Student { //second на компе
+public class Student { //Main на GitHub
     List<Book> books;
-    private final String name;//ыывы
+    private final String name;
 
     public Student(String name, List<Book> books) {
         this.books = books;
