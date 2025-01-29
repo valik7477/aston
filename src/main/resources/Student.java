@@ -18,7 +18,6 @@ public class Student { //в
         return "Student - " + name +
                 " books=" + books;
     }
-
     public static void main(String[] args) {
         // Создаем книги
         Book book1 = new Book("Title1", 256, 1960);
