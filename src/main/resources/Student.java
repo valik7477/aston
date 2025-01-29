@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Student { //Main на GitHub + редактирую в секонде
+public class Student { //Main на GitHub + редактирую в секондеее
     List<Book> books;
     private final String name;
 
