@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Student { //Измел в Гите2
+public class Student { //Main
     List<Book> books;
     private final String name;
 
