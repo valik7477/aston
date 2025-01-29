@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Student { //second на компе
     List<Book> books;
-    private final String name;
+    private final String name;//ыывы
 
     public Student(String name, List<Book> books) {
         this.books = books;
